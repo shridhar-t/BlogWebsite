@@ -17,8 +17,8 @@ All the data is persisted on a DataBase i.e, the blogs created by user is not lo
 6. HTML+CSS
 
 #### Images
-![root](/images/blog.png)
-![foo](/images/compose.png)
+![blog](/images/blog.png)
+![compose](/images/compose.png)
 
 This Project was a part of WebDev Bootcamp course.
 
